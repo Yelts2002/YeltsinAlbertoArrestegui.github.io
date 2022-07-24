@@ -1,0 +1,65 @@
+﻿.menu {
+    position: fixed;
+    margin-top: 2%;
+    z-index:1;
+}
+
+    .menu nav button {
+        background-color: brown;
+        width: 150%;
+    }
+
+    .menu nav div ul li a {
+        height: 20%;
+        width: 150%;
+        background-color: brown;
+        color: white;
+        border: 2px solid white;
+        font-family: 'Baskerville Old Face';
+    }
+
+    .menu nav ul li a:hover {
+        background-color: chocolate;
+    }
+
+body h1 {
+    font-family: 'Berlin Sans FB';
+    text-align: center;
+    background-color: brown;
+    color: white;
+    width: 100%;
+    font-size: 500%;
+}
+
+header img {
+    width: 40%;
+}
+
+header {
+    color: #fff;
+    height: 20%;
+    text-align: center;
+    vertical-align: middle;
+    text-shadow: #111 0px 0px 10px;
+    background-image: url("../img/fondo.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+footer {
+    width: 90%;
+    margin-left: 5%;
+    background-color: brown;
+    text-align: center;
+    margin-top: 5px;
+    clear: both;
+    margin-bottom: 5px;
+}
+
+#boton {
+    top: 800px;
+    left: 500px;
+}
+#carouselh{
+    
+}
